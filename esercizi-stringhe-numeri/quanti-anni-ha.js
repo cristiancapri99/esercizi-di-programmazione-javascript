@@ -11,3 +11,14 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var corrente = 2020;
+var nascita = 1999;
+
+var età = corrente-nascita;
+
+console.log(età);
+
+var necessari = 100 - età;
+
+console.log(necessari);
